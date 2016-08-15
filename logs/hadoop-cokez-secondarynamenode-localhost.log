@@ -1,0 +1,21 @@
+2014-07-31 20:19:35,483 INFO org.apache.hadoop.hdfs.server.namenode.SecondaryNameNode: STARTUP_MSG: 
+/************************************************************
+STARTUP_MSG: Starting SecondaryNameNode
+STARTUP_MSG:   host = localhost/127.0.0.1
+STARTUP_MSG:   args = []
+STARTUP_MSG:   version = 1.0.4-SNAPSHOT
+STARTUP_MSG:   build = git://localhost/ on branch master -r 809149003ff56389dd7c94f07b689d795ec9f519; compiled by 'cokez' on Thu Jul 31 20:18:38 HKT 2014
+************************************************************/
+2014-07-31 20:19:40,874 INFO org.apache.hadoop.hdfs.server.namenode.SecondaryNameNode: Starting web server as: cokez
+2014-07-31 20:19:40,905 INFO org.mortbay.log: Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2014-07-31 20:19:40,943 INFO org.apache.hadoop.http.HttpServer: Added global filtersafety (class=org.apache.hadoop.http.HttpServer$QuotingInputFilter)
+2014-07-31 20:19:40,945 INFO org.apache.hadoop.http.HttpServer: Port returned by webServer.getConnectors()[0].getLocalPort() before open() is -1. Opening the listener on 50090
+2014-07-31 20:19:40,946 INFO org.apache.hadoop.http.HttpServer: listener.getLocalPort() returned 50090 webServer.getConnectors()[0].getLocalPort() returned 50090
+2014-07-31 20:19:40,946 INFO org.apache.hadoop.http.HttpServer: Jetty bound to port 50090
+2014-07-31 20:19:40,946 INFO org.mortbay.log: jetty-6.1.26
+2014-07-31 20:19:41,157 INFO org.mortbay.log: Started SelectChannelConnector@0.0.0.0:50090
+2014-07-31 20:19:41,157 INFO org.apache.hadoop.hdfs.server.namenode.SecondaryNameNode: Web server init done
+2014-07-31 20:19:41,157 INFO org.apache.hadoop.hdfs.server.namenode.SecondaryNameNode: Secondary Web-server up at: 0.0.0.0:50090
+2014-07-31 20:19:41,157 INFO org.apache.hadoop.hdfs.server.namenode.SecondaryNameNode: Secondary image servlet up at: 0.0.0.0:50090
+2014-07-31 20:19:41,157 WARN org.apache.hadoop.hdfs.server.namenode.SecondaryNameNode: Checkpoint Period   :3600 secs (60 min)
+2014-07-31 20:19:41,157 WARN org.apache.hadoop.hdfs.server.namenode.SecondaryNameNode: Log Size Trigger    :67108864 bytes (65536 KB)

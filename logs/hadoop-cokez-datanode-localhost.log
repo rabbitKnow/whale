@@ -1,0 +1,55 @@
+2014-07-31 20:19:34,130 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: STARTUP_MSG: 
+/************************************************************
+STARTUP_MSG: Starting DataNode
+STARTUP_MSG:   host = localhost/127.0.0.1
+STARTUP_MSG:   args = []
+STARTUP_MSG:   version = 1.0.4-SNAPSHOT
+STARTUP_MSG:   build = git://localhost/ on branch master -r 809149003ff56389dd7c94f07b689d795ec9f519; compiled by 'cokez' on Thu Jul 31 20:18:38 HKT 2014
+************************************************************/
+2014-07-31 20:19:34,243 INFO org.apache.hadoop.metrics2.impl.MetricsConfig: loaded properties from hadoop-metrics2.properties
+2014-07-31 20:19:34,251 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source MetricsSystem,sub=Stats registered.
+2014-07-31 20:19:34,252 INFO org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Scheduled snapshot period at 10 second(s).
+2014-07-31 20:19:34,252 INFO org.apache.hadoop.metrics2.impl.MetricsSystemImpl: DataNode metrics system started
+2014-07-31 20:19:34,352 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source ugi registered.
+2014-07-31 20:19:34,354 WARN org.apache.hadoop.metrics2.impl.MetricsSystemImpl: Source name ugi already exists!
+2014-07-31 20:19:34,375 INFO org.apache.hadoop.util.NativeCodeLoader: Loaded the native-hadoop library
+2014-07-31 20:19:39,696 INFO org.apache.hadoop.hdfs.server.common.Storage: Storage directory /home/cokez/HadoopRun/dfs/data is not formatted.
+2014-07-31 20:19:39,696 INFO org.apache.hadoop.hdfs.server.common.Storage: Formatting ...
+2014-07-31 20:19:40,147 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Registered FSDatasetStatusMBean
+2014-07-31 20:19:40,159 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Opened info server at 50010
+2014-07-31 20:19:40,160 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Balancing bandwith is 1048576 bytes/s
+2014-07-31 20:19:45,261 INFO org.mortbay.log: Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+2014-07-31 20:19:45,309 INFO org.apache.hadoop.http.HttpServer: Added global filtersafety (class=org.apache.hadoop.http.HttpServer$QuotingInputFilter)
+2014-07-31 20:19:45,315 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: dfs.webhdfs.enabled = false
+2014-07-31 20:19:45,316 INFO org.apache.hadoop.http.HttpServer: Port returned by webServer.getConnectors()[0].getLocalPort() before open() is -1. Opening the listener on 50075
+2014-07-31 20:19:45,316 INFO org.apache.hadoop.http.HttpServer: listener.getLocalPort() returned 50075 webServer.getConnectors()[0].getLocalPort() returned 50075
+2014-07-31 20:19:45,316 INFO org.apache.hadoop.http.HttpServer: Jetty bound to port 50075
+2014-07-31 20:19:45,316 INFO org.mortbay.log: jetty-6.1.26
+2014-07-31 20:19:45,529 INFO org.mortbay.log: Started SelectChannelConnector@0.0.0.0:50075
+2014-07-31 20:19:45,531 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source jvm registered.
+2014-07-31 20:19:45,532 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source DataNode registered.
+2014-07-31 20:19:50,614 INFO org.apache.hadoop.ipc.Server: Starting SocketReader
+2014-07-31 20:19:50,617 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source RpcDetailedActivityForPort50020 registered.
+2014-07-31 20:19:50,617 INFO org.apache.hadoop.metrics2.impl.MetricsSourceAdapter: MBean for source RpcActivityForPort50020 registered.
+2014-07-31 20:19:50,619 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: dnRegistration = DatanodeRegistration(localhost:50010, storageID=, infoPort=50075, ipcPort=50020)
+2014-07-31 20:19:50,767 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: New storage id DS-127.0.0.1-50010 is assigned to data-node 127.0.0.1:50010
+2014-07-31 20:19:50,767 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Starting asynchronous block report scan
+2014-07-31 20:19:50,768 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: DatanodeRegistration(127.0.0.1:50010, storageID=DS-127.0.0.1-50010, infoPort=50075, ipcPort=50020)In DataNode.run, data = FSDataset{dirpath='/home/cokez/HadoopRun/dfs/data/current'}
+2014-07-31 20:19:50,768 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Finished asynchronous block report scan in 1ms
+2014-07-31 20:19:50,769 INFO org.apache.hadoop.ipc.Server: IPC Server Responder: starting
+2014-07-31 20:19:50,769 INFO org.apache.hadoop.ipc.Server: IPC Server listener on 50020: starting
+2014-07-31 20:19:50,771 INFO org.apache.hadoop.ipc.Server: IPC Server handler 0 on 50020: starting
+2014-07-31 20:19:50,771 INFO org.apache.hadoop.ipc.Server: IPC Server handler 1 on 50020: starting
+2014-07-31 20:19:50,771 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: using BLOCKREPORT_INTERVAL of 120000msec Initial delay: 0msec
+2014-07-31 20:19:50,771 INFO org.apache.hadoop.ipc.Server: IPC Server handler 2 on 50020: starting
+2014-07-31 20:19:50,774 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Reconciled asynchronous block report against current state in 0 ms
+2014-07-31 20:19:50,779 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: BlockReport of 0 blocks took 1 msec to generate and 4 msecs for RPC and NN processing
+2014-07-31 20:19:50,780 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Starting Periodic block scanner.
+2014-07-31 20:19:50,780 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Generated rough (lockless) block report in 0 ms
+2014-07-31 20:19:50,780 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Reconciled asynchronous block report against current state in 0 ms
+2014-07-31 20:19:52,687 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Receiving block blk_-469067317471238306_1002 src: /127.0.0.1:52283 dest: /127.0.0.1:50010
+2014-07-31 20:19:52,693 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /127.0.0.1:52283, dest: /127.0.0.1:50010, bytes: 4, op: HDFS_WRITE, cliID: DFSClient_825605811, offset: 0, srvID: DS-127.0.0.1-50010, blockid: blk_-469067317471238306_1002, duration: 676552
+2014-07-31 20:19:52,693 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: PacketResponder 0 for block blk_-469067317471238306_1002 terminating
+2014-07-31 20:20:06,926 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: Receiving block blk_8817174851843073621_1003 src: /127.0.0.1:52287 dest: /127.0.0.1:50010
+2014-07-31 20:20:06,929 INFO org.apache.hadoop.hdfs.server.datanode.DataNode.clienttrace: src: /127.0.0.1:52287, dest: /127.0.0.1:50010, bytes: 1366, op: HDFS_WRITE, cliID: DFSClient_-1045735706, offset: 0, srvID: DS-127.0.0.1-50010, blockid: blk_8817174851843073621_1003, duration: 1525122
+2014-07-31 20:20:06,929 INFO org.apache.hadoop.hdfs.server.datanode.DataNode: PacketResponder 0 for block blk_8817174851843073621_1003 terminating

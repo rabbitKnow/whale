@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+
+<configuration>
+    <property>
+          <name>dfs.metadata.path</name>
+            <value>/home/cokez/metaDataDir</value>
+    </property>
+    <property>
+          <name>dfs.replication</name>
+            <value>3</value>
+    </property>
+	
+    <property>
+          <name>dfs.inode.max</name>
+            <value>1000</value>
+    </property>
+</configuration>

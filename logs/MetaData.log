@@ -1,0 +1,251 @@
+2014-07-31 20:19:34,262 INFO MetaTest: inode:
+2014-07-31 20:19:34,262 INFO MetaTest: after write position:792
+2014-07-31 20:19:34,262 INFO MetaTest: recover the rootdirfalse
+2014-07-31 20:19:34,421 INFO MetaTest: RegistrationID:NS-0--32-0
+2014-07-31 20:19:39,265 INFO MetaTest: totalCacheNum:0
+2014-07-31 20:19:39,265 INFO MetaTest: maxINodeNum:1000
+2014-07-31 20:19:39,693 INFO MetaTest: storageInfo:0-0-0
+2014-07-31 20:19:39,696 INFO MetaTest: curState:NOT_FORMATTED
+2014-07-31 20:19:40,090 INFO MetaTest: layout version :-32
+2014-07-31 20:19:40,091 INFO MetaTest: layout version :-32
+2014-07-31 20:19:40,132 INFO MetaTest: storageInfo:2144135220--32-0
+2014-07-31 20:19:40,147 INFO MetaTest: RegistrationID:NS-2144135220--32-0
+2014-07-31 20:19:42,393 INFO MetaTest: inode:home
+2014-07-31 20:19:42,393 INFO MetaTest: after write position:12852
+2014-07-31 20:19:42,395 INFO MetaTest: inode:
+2014-07-31 20:19:42,395 INFO MetaTest: after update position:1053
+2014-07-31 20:19:42,395 INFO MetaTest: inode:cokez
+2014-07-31 20:19:42,395 INFO MetaTest: after write position:24912
+2014-07-31 20:19:42,396 INFO MetaTest: inode:home
+2014-07-31 20:19:42,396 INFO MetaTest: after update position:13113
+2014-07-31 20:19:42,396 INFO MetaTest: inode:HadoopRun
+2014-07-31 20:19:42,397 INFO MetaTest: after write position:36972
+2014-07-31 20:19:42,397 INFO MetaTest: inode:cokez
+2014-07-31 20:19:42,397 INFO MetaTest: after update position:25173
+2014-07-31 20:19:42,398 INFO MetaTest: inode:mapred
+2014-07-31 20:19:42,398 INFO MetaTest: after write position:49032
+2014-07-31 20:19:42,398 INFO MetaTest: inode:HadoopRun
+2014-07-31 20:19:42,398 INFO MetaTest: after update position:37233
+2014-07-31 20:19:42,399 INFO MetaTest: inode:system
+2014-07-31 20:19:42,399 INFO MetaTest: after write position:61092
+2014-07-31 20:19:42,399 INFO MetaTest: inode:mapred
+2014-07-31 20:19:42,399 INFO MetaTest: after update position:49293
+2014-07-31 20:19:42,432 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,432 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,432 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,432 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,432 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,481 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,481 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,481 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,481 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,481 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,483 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,483 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,483 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,483 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,483 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,500 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,500 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,500 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,500 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,500 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,500 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,500 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,500 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,500 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,500 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,500 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,500 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,500 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,500 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,500 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,500 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,500 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,500 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,500 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,500 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,501 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,501 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,501 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,501 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,501 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,502 INFO MetaTest: inode:system
+2014-07-31 20:19:42,502 INFO MetaTest: after update position:61353
+2014-07-31 20:19:42,535 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,535 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,535 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,535 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,535 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,535 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,577 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,578 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,578 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,578 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,578 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,578 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,588 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,588 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,588 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,588 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,588 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,588 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,588 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,588 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,588 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,588 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,588 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,588 INFO MetaTest: curNode:not null
+2014-07-31 20:19:42,589 INFO MetaTest: inode:system
+2014-07-31 20:19:42,589 INFO MetaTest: after update position:61092
+2014-07-31 20:19:44,265 INFO MetaTest: totalCacheNum:5
+2014-07-31 20:19:44,266 INFO MetaTest: maxINodeNum:1000
+2014-07-31 20:19:49,266 INFO MetaTest: totalCacheNum:5
+2014-07-31 20:19:49,266 INFO MetaTest: maxINodeNum:1000
+2014-07-31 20:19:50,647 INFO MetaTest: dnreg:DS-127.0.0.1-50010
+2014-07-31 20:19:52,603 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,603 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,603 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,603 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,603 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,604 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,604 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,604 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,604 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,604 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,606 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,606 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,606 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,606 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,606 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,607 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,607 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,607 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,607 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,607 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,607 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,607 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,607 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,607 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,607 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,607 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,608 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,608 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,608 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,608 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,608 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,608 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,608 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,608 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,608 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,609 INFO MetaTest: inode:system
+2014-07-31 20:19:52,609 INFO MetaTest: after update position:61353
+2014-07-31 20:19:52,631 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,631 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,631 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,631 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,631 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,631 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,641 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,641 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,641 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,641 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,641 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,641 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,641 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,641 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,641 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,641 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,641 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,642 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,694 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,694 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,694 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,694 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,694 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,694 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,694 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,694 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,694 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,694 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,694 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,694 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,696 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,696 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,696 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,696 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,696 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,696 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,696 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,696 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,696 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,696 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,696 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,696 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,696 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,696 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,696 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,696 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,696 INFO MetaTest: curNode:not null
+2014-07-31 20:19:52,697 INFO MetaTest: inode:system
+2014-07-31 20:19:52,697 INFO MetaTest: after update position:61353
+2014-07-31 20:19:54,266 INFO MetaTest: totalCacheNum:6
+2014-07-31 20:19:54,266 INFO MetaTest: maxINodeNum:1000
+2014-07-31 20:19:59,266 INFO MetaTest: totalCacheNum:6
+2014-07-31 20:19:59,266 INFO MetaTest: maxINodeNum:1000
+2014-07-31 20:20:04,267 INFO MetaTest: totalCacheNum:6
+2014-07-31 20:20:04,267 INFO MetaTest: maxINodeNum:1000
+2014-07-31 20:20:06,790 INFO MetaTest: inode:user
+2014-07-31 20:20:06,790 INFO MetaTest: after write position:73152
+2014-07-31 20:20:06,791 INFO MetaTest: inode:
+2014-07-31 20:20:06,791 INFO MetaTest: after update position:1314
+2014-07-31 20:20:06,791 INFO MetaTest: curNode:not null
+2014-07-31 20:20:06,792 INFO MetaTest: inode:user
+2014-07-31 20:20:06,792 INFO MetaTest: after update position:73413
+2014-07-31 20:20:06,901 INFO MetaTest: curNode:not null
+2014-07-31 20:20:06,901 INFO MetaTest: curNode:not null
+2014-07-31 20:20:06,901 INFO MetaTest: curNode:not null
+2014-07-31 20:20:06,901 INFO MetaTest: curNode:not null
+2014-07-31 20:20:06,930 INFO MetaTest: curNode:not null
+2014-07-31 20:20:06,930 INFO MetaTest: curNode:not null
+2014-07-31 20:20:06,930 INFO MetaTest: curNode:not null
+2014-07-31 20:20:06,930 INFO MetaTest: curNode:not null
+2014-07-31 20:20:06,930 INFO MetaTest: curNode:not null
+2014-07-31 20:20:06,930 INFO MetaTest: curNode:not null
+2014-07-31 20:20:06,931 INFO MetaTest: curNode:not null
+2014-07-31 20:20:06,931 INFO MetaTest: curNode:not null
+2014-07-31 20:20:06,931 INFO MetaTest: curNode:not null
+2014-07-31 20:20:06,932 INFO MetaTest: inode:user
+2014-07-31 20:20:06,932 INFO MetaTest: after update position:73413
+2014-07-31 20:20:09,267 INFO MetaTest: totalCacheNum:8
+2014-07-31 20:20:09,267 INFO MetaTest: maxINodeNum:1000
+2014-07-31 20:20:14,267 INFO MetaTest: totalCacheNum:8
+2014-07-31 20:20:14,267 INFO MetaTest: maxINodeNum:1000
+2014-07-31 20:20:19,268 INFO MetaTest: totalCacheNum:8
+2014-07-31 20:20:19,268 INFO MetaTest: maxINodeNum:1000
+2014-07-31 20:20:24,268 INFO MetaTest: totalCacheNum:8
+2014-07-31 20:20:24,268 INFO MetaTest: maxINodeNum:1000
+2014-07-31 20:20:29,269 INFO MetaTest: totalCacheNum:8
+2014-07-31 20:20:29,269 INFO MetaTest: maxINodeNum:1000
+2014-07-31 20:20:34,270 INFO MetaTest: totalCacheNum:8
+2014-07-31 20:20:34,270 INFO MetaTest: maxINodeNum:1000
+2014-07-31 20:20:39,271 INFO MetaTest: totalCacheNum:8
+2014-07-31 20:20:39,271 INFO MetaTest: maxINodeNum:1000
+2014-07-31 20:20:44,272 INFO MetaTest: totalCacheNum:8
+2014-07-31 20:20:44,273 INFO MetaTest: maxINodeNum:1000
+2014-07-31 20:20:49,274 INFO MetaTest: totalCacheNum:8
+2014-07-31 20:20:49,274 INFO MetaTest: maxINodeNum:1000
+2014-07-31 20:20:54,274 INFO MetaTest: totalCacheNum:8
+2014-07-31 20:20:54,274 INFO MetaTest: maxINodeNum:1000
+2014-07-31 20:20:59,275 INFO MetaTest: totalCacheNum:8
+2014-07-31 20:20:59,275 INFO MetaTest: maxINodeNum:1000
+2014-07-31 20:21:04,275 INFO MetaTest: totalCacheNum:8
+2014-07-31 20:21:04,275 INFO MetaTest: maxINodeNum:1000
+2014-07-31 20:21:09,276 INFO MetaTest: totalCacheNum:8
+2014-07-31 20:21:09,276 INFO MetaTest: maxINodeNum:1000
+2014-07-31 20:21:14,277 INFO MetaTest: totalCacheNum:8
+2014-07-31 20:21:14,277 INFO MetaTest: maxINodeNum:1000
+2014-07-31 20:21:19,278 INFO MetaTest: totalCacheNum:8
+2014-07-31 20:21:19,278 INFO MetaTest: maxINodeNum:1000
+2014-07-31 20:21:24,278 INFO MetaTest: totalCacheNum:8
+2014-07-31 20:21:24,284 INFO MetaTest: maxINodeNum:1000
